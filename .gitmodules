@@ -1,0 +1,6 @@
+[submodule "jwt-auth-client"]
+	path = jwt-auth-client
+	url = https://github.com/DokaDev/jwt-auth-client.git
+[submodule "jwt-auth-svc"]
+	path = jwt-auth-svc
+	url = https://github.com/DokaDev/jwt-auth-svc.git
