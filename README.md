@@ -1,5 +1,9 @@
 # JWT Authentication System
 
+```bash
+git clone https://github.com/DokaDev/jwt-web-snippets.git --recurse-submodules
+```
+
 This project demonstrates a complete JWT (JSON Web Token) authentication system with a Next.js frontend client and a Spring Boot backend server. The system implements secure authentication flows with access tokens and refresh tokens stored in Redis.
 
 ## Project Structure
